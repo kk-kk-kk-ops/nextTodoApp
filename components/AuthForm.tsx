@@ -40,7 +40,7 @@ export const AuthForm = ({
             onClick={onSignUp}
             className="rounded bg-blue-600 px-4 py-2 text-white"
           >
-            サインアップ
+            新規登録
           </button>
           <button
             onClick={onSignIn}
